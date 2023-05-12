@@ -30,6 +30,7 @@ img{
   
 }
 .leads{
+    display: flex;
     text-align: center;
     margin: 60px 35px 35px 60px;
     padding: 20px;
